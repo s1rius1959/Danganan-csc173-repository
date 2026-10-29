@@ -20,5 +20,5 @@ Final validation accuracy: transfer 0.90  · from scratch 1.00
 The numbers, and what it detects: My kernel [[2,1,0],[1,0,-1],[0,-1,-2]]. My kernel detects diagonal edges in the Bible. It highlights diagonal boundaries in the fabric and around some parts of the Bible because its positive and negative weights respond to changes in pixel intensity across diagonal directions.
 
 ## AI and outside help
-Claude AI - For Brainstorming for each questions and TODO's code
+Claude AI - For Brainstorming for each questions and TODO's code.\
 ChatGPT - For explaining the Lecture to better understand each cells and their discussion about each topic.
