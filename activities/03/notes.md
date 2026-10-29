@@ -1,5 +1,6 @@
 # Lecture 03 Activity: Notes
-Name: Kilmer Douglas Bernardo A. Danganan · Student ID: 2023-1721
+Name: Kilmer Douglas Bernardo A. Danganan · \
+Student ID: 2023-1721
 
 ## My photos (Parts 0 to 6)
 How many photos, and what each shows (one line each):
