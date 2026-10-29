@@ -11,9 +11,9 @@ How many photos, and what each shows (one line each):
 5. Ruler
 
 ## My dataset (Part 7)
-Categories: Guitar vs. Shoes
-Photos per category: 20 and 20
-How I took them (places, backgrounds, lighting, angles): Different places on my room, Dark lighting, Zoomed in on the Object, Different Positioning of the Objects
+Categories: Guitar vs. Shoes\
+Photos per category: 20 and 20\
+How I took them (places, backgrounds, lighting, angles): Different places on my room, Dark lighting, Zoomed in on the Object, Different Positioning of the Objects\
 Final validation accuracy: transfer 0.90  · from scratch 1.00
 
 ## My kernel (Part 2c)
